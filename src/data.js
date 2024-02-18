@@ -50,7 +50,7 @@ export const sliderItems = [
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://img.freepik.com/free-photo/still-life-rendering-jackets-display_23-2149745027.jpg?w=360&t=st=1707157649~exp=1707158249~hmac=cbf0a0d1409b99cfe0154c53e54ac08da697a010f3a2c3c572f7d1e3220da7a0",
     },
     {
       id:3,
@@ -58,7 +58,7 @@ export const sliderItems = [
     },
     {
       id:4,
-      img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+      img:"https://img.freepik.com/premium-photo/floral-print-green-dress-leather-roman-sandals-cross-body-bag-women-s-summer-clothing-concept_624178-384.jpg?w=740",
     },
     {
       id:5,
@@ -70,7 +70,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://img.freepik.com/free-photo/close-up-new-york-man-fashionable-jacket_23-2150868236.jpg?t=st=1707158068~exp=1707161668~hmac=397f9e21548b0db5c76d50a255ef252c57b0f6cded44198bbfa9c0730d6d3d3c&w=740",
     },
     {
       id:8,
